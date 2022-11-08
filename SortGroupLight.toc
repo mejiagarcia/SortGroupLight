@@ -1,0 +1,7 @@
+## Interface: 100000
+## Title: SortGroupLight
+## Version: 5.1.05
+## Author: Collabo93
+## Notes: Sort your group by Party 1-4 (no UI, only functional on arenas, descending sort)
+
+SortGroupLight.lua
