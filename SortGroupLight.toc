@@ -1,4 +1,4 @@
-## Interface: 100000
+## Interface: 100002
 ## Title: SortGroupLight
 ## Version: 5.1.05
 ## Author: Collabo93
